@@ -9,7 +9,7 @@ The offical links for this template are:
   https://github.com/TheSparkPlays/Onepage-Minecraft-Server-Website-
   
 And for the live demo:
-  https://www.rickklaasboer.online/demo/onepage-template/
+  https://orecraft.io
 
 That's basically it for now.
 
